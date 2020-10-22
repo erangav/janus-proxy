@@ -1,2 +1,2 @@
 # janus-proxy
-SDP/RTP Janus falvor
+Janus WebRTC Server
