@@ -1,2 +1,2 @@
 # janus-proxy
-SDP/RTP Jnus falvor
+SDP/RTP Janus falvor
